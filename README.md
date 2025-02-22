@@ -24,7 +24,7 @@ You are expected to do the following to complete this project:
     - Provide a screenshot of the storage endpoint URL as detailed further below.
         description secret: testcms
         value also   client can secret: 1RB8Q~6sV2M.vWy9Z3w86Wi4MQ5Vk~owJ99n7bgj
-         be Also can secret key: scret id: 3d3a2ed3-8d00-429c-94ec-14e958a11434
+         be Also can secret key: scret id: 3d3a2ed3-8d00-429c-94ec-14e958a11434 
          be application id: b15d75dd-2873-4e49-ad95-096d65bd0279
       
 5. Add functionality to the Sign In With Microsoft button. : testcms
